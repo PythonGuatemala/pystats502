@@ -1,0 +1,1 @@
+Todas las contribuciones serán tomadas en cuenta, para poder incluirlas en el repositorio deberan pasar por una revision por los administradores de este repositorio. Los push deben hacerse a la branch QA para el proceso de revision.
